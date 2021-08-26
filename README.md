@@ -54,7 +54,7 @@ In gitbash after you have activated your dev environment, install the following:
     `python -c "import tensorflow as tf;print(tf.__version__)"`
     `python -c "import tensorflow as tf;print(tf.keras.__version__)"
     
-![check tensorflow and keras](https://github.com/mckayav3/Module_13_Challenge/blob/main/Starter_Code/images/check_tensorflow_keras.JPG)
+![check tensorflow and keras](./images/check_tensorflow_keras.JPG)
 
 
 ---
