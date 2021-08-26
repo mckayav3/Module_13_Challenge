@@ -64,21 +64,17 @@ In gitbash after you have activated your dev environment, install the following:
 The images below show the different types of dataframes and outputs that should be a result from running the code in the Venture Funding application.
 
 
-![](/images/applicant_data_df.png)
+![](https://github.com/mckayav3/Module_13_Challenge/blob/main/Venture_Funding_Deep_Learning/images/applicant_data_df.JPG)
 
-![]()
+![](https://github.com/mckayav3/Module_13_Challenge/blob/main/Venture_Funding_Deep_Learning/images/dtypes.JPG)
 
-![]()
+![](https://github.com/mckayav3/Module_13_Challenge/blob/main/Venture_Funding_Deep_Learning/images/encoded_df.JPG)
 
-![]()
+![](https://github.com/mckayav3/Module_13_Challenge/blob/main/Venture_Funding_Deep_Learning/images/model_loss_accuracy.JPG)
 
-![]()
+![](https://github.com/mckayav3/Module_13_Challenge/blob/main/Venture_Funding_Deep_Learning/images/model_summary.JPG)
 
-![]()
-
-![]()
-
-![]()
+![](https://github.com/mckayav3/Module_13_Challenge/blob/main/Venture_Funding_Deep_Learning/images/all_model_results.JPG)
 
 
 ---
