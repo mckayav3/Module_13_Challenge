@@ -64,7 +64,7 @@ In gitbash after you have activated your dev environment, install the following:
 The images below show the different types of dataframes and outputs that should be a result from running the code in the Venture Funding application.
 
 
-![](images/applicant_data_df.png)
+![](/images/applicant_data_df.png)
 
 ![]()
 
