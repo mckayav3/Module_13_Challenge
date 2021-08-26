@@ -45,7 +45,7 @@ In gitbash after you have activated your dev environment, install the following:
 
     `pip install --upgrade tensorflow`
     
-![install tensorflow](https://github.com/mckayav3/Module_13_Challenge/blob/main/Starter_Code/images/install_tensorflow.JPG)
+![install tensorflow](./images/install_tensorflow.JPG)
 
 
 
